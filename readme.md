@@ -1,7 +1,9 @@
 slackware-lepton-eda
 ====================
 
-[Lepton EDA](https://github.com/lepton-eda/lepton-eda) (Electronic Design Automation) SlackBuild script for Slackware Linux
+[Lepton EDA](https://github.com/lepton-eda/lepton-eda) (Electronic Design Automation) SlackBuild script for Slackware Linux.
+
+[SlackBuilds.org page](https://slackbuilds.org/repository/14.2/development/lepton-eda/).
 
 
 How to install
