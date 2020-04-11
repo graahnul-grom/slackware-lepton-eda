@@ -1,21 +1,13 @@
-----------
-12.11.2019
-----------
-Lepton EDA submitted to slackbuilds.org
-(https://slackbuilds.org/submit/):
-
-email:                graahnul.grom@gmail.com
-Select a category:    Development
-Searchable Keywords:  electronics,cad,eda,schematic,geda
+lepton-eda archive files submitted to slackbuilds.org
+-----------------------------------------------------
 
 
-----------
-16.11.2019
-----------
-Lepton EDA committed to slackbuilds.org git repository
-(https://git.slackbuilds.org):
+1) Initial submission: add lepton-eda release 1.9.9
+- date: 12.Nov.2019
+- upload form fields (https://slackbuilds.org/submit/):
+  - email:                graahnul.grom@gmail.com
+  - Select a category:    Development
+  - Searchable Keywords:  electronics,cad,eda,schematic,geda
+- committed to git.slackbuilds.org: 2a87550 (16.Nov.2019)
 
-commit: 2a87550
-repo path: https://git.slackbuilds.org/slackbuilds/tree/development/lepton-eda
-URL: https://slackbuilds.org/repository/14.2/development/lepton-eda/
 
