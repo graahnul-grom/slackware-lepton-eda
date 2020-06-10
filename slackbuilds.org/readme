@@ -3,7 +3,7 @@ lepton-eda archive files submitted to slackbuilds.org
 
 
 1) Initial submission: add lepton-eda release 1.9.9
-- date: 12.Nov.2019
+- submitted: 12.Nov.2019
 - upload form fields (https://slackbuilds.org/submit/):
   - email:                graahnul.grom@gmail.com
   - Select a category:    Development
@@ -11,6 +11,9 @@ lepton-eda archive files submitted to slackbuilds.org
 - committed to git.slackbuilds.org: 2a87550 (16.Nov.2019)
 
 2) Update to release 1.9.10
-- date: 26.Mar.2020
+- submitted: 26.Mar.2020
 - committed to git.slackbuilds.org: 0720591 (28.Mar.2020)
+
+3) Update to release 1.9.11
+- submitted: 06.Jun.2020
 
