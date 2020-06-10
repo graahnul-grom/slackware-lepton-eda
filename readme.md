@@ -1,19 +1,27 @@
-### [Lepton EDA](https://github.com/lepton-eda/lepton-eda) for [Slackware Linux](http://www.slackware.com/)
+Lepton EDA for Slackware Linux
+==============================
 
 SlackBuilds.org page: [development/lepton-eda](https://slackbuilds.org/repository/14.2/development/lepton-eda/)
 <br />
-Current version: 1.9.10 [release](https://github.com/lepton-eda/lepton-eda/releases/tag/1.9.10-20200319)
+Current version: 1.9.11 [release](https://github.com/lepton-eda/lepton-eda/releases/tag/1.9.11-20200604)
 <br />
+<br />
+[Lepton EDA](https://github.com/lepton-eda/lepton-eda)
+is a suite of free software tools for designing electronics,
+an actively developed fork of the
+[gEDA/gaf suite](http://wiki.geda-project.org/geda:gaf),
+started in late 2016 by most of gEDA/gaf developers at that time.
 
 
-#### How to install
+How to install
+--------------
 
-##### From SlackBuilds.org:
+#### From SlackBuilds.org:
 
 1. Visit [Lepton EDA SlackBuilds.org page](https://slackbuilds.org/repository/14.2/development/lepton-eda/)
 2. Follow [SlackBuild Usage HOWTO](https://slackbuilds.org/howto/) instructions
 
-##### From this repository:
+#### From this repository:
 
 1. `git clone https://github.com/graahnul-grom/slackware-lepton-eda.git`
 2. `cd slackware-lepton-eda/lepton-eda/`
