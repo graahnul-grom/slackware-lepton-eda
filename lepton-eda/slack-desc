@@ -6,7 +6,7 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
           |-----handy-ruler------------------------------------------------------|
-lepton-eda: Lepton EDA (Lepton Electronic Design Automation)
+lepton-eda: lepton-eda (Lepton Electronic Design Automation)
 lepton-eda:
 lepton-eda: Lepton EDA is a suite of free software tools for designing
 lepton-eda: electronics. It provides schematic capture, netlisting into
