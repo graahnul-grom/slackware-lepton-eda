@@ -27,6 +27,6 @@ How to install
 2. `cd slackware-lepton-eda/lepton-eda/`
 3. `chmod +x doinst.sh lepton-eda.SlackBuild`
 4. as root, build package: `./lepton-eda.SlackBuild` (built package will be placed in `/tmp/`)
-5. as root, install package: `installpkg /tmp/lepton-eda-1.9.10-x86_64-1_SBo.tgz`<br />
+5. as root, install package: `installpkg /tmp/lepton-eda-1.9.11-x86_64-1_SBo.tgz`<br />
 (built package name may be slightly different, depending on the architecture)
 
