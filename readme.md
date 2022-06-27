@@ -1,9 +1,10 @@
 Lepton EDA for Slackware Linux
 ==============================
 
-SlackBuilds.org page: [development/lepton-eda](https://slackbuilds.org/repository/15.0/development/lepton-eda/)
+Current version: 1.9.18 [release](https://github.com/lepton-eda/lepton-eda/releases/tag/1.9.18-20220529).
 <br />
-Current version: 1.9.17 [release](https://github.com/lepton-eda/lepton-eda/releases/tag/1.9.17-20211219)
+SlackBuilds.org page: [development/lepton-eda](https://slackbuilds.org/repository/15.0/development/lepton-eda/)
+(note: current release is 1.9.17 there).
 <br />
 <br />
 [Lepton EDA](https://github.com/lepton-eda/lepton-eda)
@@ -27,8 +28,7 @@ How to install
 
 1. `git clone https://github.com/graahnul-grom/slackware-lepton-eda.git`
 2. `cd slackware-lepton-eda/lepton-eda/`
-3. `chmod +x lepton-eda.SlackBuild`
-4. as root, build package: `./lepton-eda.SlackBuild` (built package will be placed in `/tmp/`)
-5. as root, install package: `installpkg /tmp/lepton-eda-1.9.17-x86_64-1_SBo.tgz`<br />
+3. as root, build package: `sh ./lepton-eda.SlackBuild` (built package will be placed in `/tmp/`)
+4. as root, install package: `installpkg /tmp/lepton-eda-1.9.18-x86_64-1_SBo.tgz`<br />
 (built package name may be slightly different, depending on architecture)
 
