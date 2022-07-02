@@ -4,7 +4,6 @@ Lepton EDA for Slackware Linux
 Current version: 1.9.18 [release](https://github.com/lepton-eda/lepton-eda/releases/tag/1.9.18-20220529).
 <br />
 SlackBuilds.org page: [development/lepton-eda](https://slackbuilds.org/repository/15.0/development/lepton-eda/)
-(note: current release is 1.9.17 there).
 <br />
 <br />
 [Lepton EDA](https://github.com/lepton-eda/lepton-eda)
